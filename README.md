@@ -14,5 +14,4 @@
 -Favorites and product management
 -INFO:While I was uploading this porject codes,I made a mistake and codes was deleted.So I will share for you my screenshoots about my project. 
 
-#Some photos about my project
-![home page](Ekran Görüntüsü (468).png)
+
